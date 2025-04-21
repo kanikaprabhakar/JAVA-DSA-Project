@@ -1,0 +1,15 @@
+make a file 
+touch taskscheduler.sh to create the file
+vi taskscheduler.sh to write in file
+click i, then ctrl + shift + v karke copy in the file
+esc, :wq karke save and exit
+uske baad 
+chmod +x taskscheduler.sh to set execute permission
+sudo ./taskscheduler.sh to run the program
+
+
+
+AGAR COPY PASTE NAHI HO RAHA
+
+apni ubuntu virtualbox main firefox kholke github main sign in karke udhar se code copy paste karlo 
+paste ya toh shift + insert se hoga ya fir shift + ctrl + v, nahi toh right click karke paste
