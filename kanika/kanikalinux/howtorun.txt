@@ -5,8 +5,9 @@ click i, then ctrl + shift + v karke copy in the file
 esc, :wq karke save and exit
 uske baad 
 chmod +x taskscheduler.sh to set execute permission
-sudo ./taskscheduler.sh to run the program
+sudo bash ./taskscheduler.sh to run the program
 
+dusri line main apna username aur directory daal dena
 
 
 AGAR COPY PASTE NAHI HO RAHA
