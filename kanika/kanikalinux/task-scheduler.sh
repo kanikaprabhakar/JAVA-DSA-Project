@@ -1,6 +1,6 @@
 #!/bin/bash
 
-TASK_DIR="/home/kanika/task_scheduler"
+TASK_DIR="/home/diksha/linux-project"
 TASK_FILE="$TASK_DIR/tasks.txt"
 LOG_FILE="$TASK_DIR/tasks.log"
 mkdir -p "$TASK_DIR"
